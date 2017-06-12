@@ -37,4 +37,4 @@
  *************************************************************/
 
 Please find usage example in example directory
-Tested and found working under ROOT5.34-36 buolt with GCC4.9.2
+Tested and found working under ROOT5.34-36 built with GCC4.9.2

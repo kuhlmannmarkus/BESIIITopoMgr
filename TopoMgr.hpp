@@ -548,7 +548,7 @@ private:
   void credits(){
     std::cout << std::endl;
     std::cout << "Thank you for using TopoMgr" << std::endl;
-    std::cout << "Sharing is caring: https://mkuhlmann.ddns.net:444/mkuhlmann/TopoMgr.git" << std::endl;
+    std::cout << "Sharing is caring: http://mkuhlmann@jollyj.ep1.rub.de/mkuhlmann/TopoMgr.git" << std::endl;
     std::cout << "Dont forget to cite! ;-)" << std::endl;
   }
   
